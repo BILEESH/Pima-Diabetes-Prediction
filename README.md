@@ -1,3 +1,5 @@
-# TextPad
+# Diabetes Predicton - Machine Learning
 
-A sub-urban version of NotePad based on Qt.
+view the document: http://nbviewer.jupyter.org/github/iSagarDhungel/Pima-Diabetes-Prediction/blob/master/Pima-Prediction.ipynb
+
+-  
